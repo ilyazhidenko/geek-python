@@ -6,6 +6,7 @@
 некоторого списка, определенного заранее.
 Подсказка: использовать функцию count() и cycle()
 модуля itertools.
+1
 '''
 
 from itertools import count

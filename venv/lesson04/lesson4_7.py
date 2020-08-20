@@ -9,6 +9,7 @@ for el in fibo_gen().
 Подсказка: факториал числа n — произведение
 чисел от 1 до n. Например, факториал
 четырёх 4! = 1 * 2 * 3 * 4 = 24.
+1
 '''
 from itertools import count
 from math import factorial
