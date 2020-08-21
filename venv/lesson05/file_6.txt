@@ -1,0 +1,3 @@
+informatics: 70   20   20
+physic:   10   -   10
+gymnastics:   -  100   -
